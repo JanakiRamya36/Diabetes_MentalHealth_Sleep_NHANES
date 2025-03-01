@@ -12,7 +12,8 @@ This project analyzes NHANES 2017-2020 data to explore the relationship between 
 - Visualized key trends using Matplotlib, emphasizing the role of mental health and sleep hygiene in diabetes prevention.
 
 # Tools used
-Python  
+- Programming language: Python
+- Libraries: NumPy, Pandas, SciPy, Statsmodels, Matplotlib 
 
 ## Repository Structure
 - **`Diabetes_MentalHealth_sleep_NHANES.ipynb`** – Jupyter Notebook for data preprocessing, statistical analysis, and visualization
@@ -21,5 +22,10 @@ Python
 - **`README.md`** – Project documentation
 
 ## How to run
+- Clone the repository and navigate t
+
 
 ## Author information
+Janaki Ramya Namburu\
+email: janakiramyan@gmail.com
+LinkedIn: www.linkedin.com/in/janakiramya
