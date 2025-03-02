@@ -35,8 +35,7 @@ This project analyzes NHANES 2017-2020 data to explore the relationship between 
   jupyter notebook Diabetes_MentalHealth_sleep_NHANES.ipynb
 - Review `Diabetes_MentalHealth_Sleep_NHANES.pptx` for a summarized presentation of insights.
 
-
 ## Author information
 Janaki Ramya Namburu\
-email: janakiramyan@gmail.com
+email: janakiramyan@gmail.com\
 LinkedIn: www.linkedin.com/in/janakiramya
